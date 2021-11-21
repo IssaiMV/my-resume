@@ -1,4 +1,4 @@
-import Header from "../../components/header";
+import Header from "../../layout/Header";
 //import "./home.scss";
 export default function Home() {
   return (
