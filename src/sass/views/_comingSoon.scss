@@ -1,0 +1,16 @@
+.comingsoon {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &__container {
+    text-align: center;
+  }
+  &__image {
+    max-width: 250px;
+  }
+  &__text {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+}
