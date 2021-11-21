@@ -1,9 +1,8 @@
-import "./header.scss";
 export default function Header() {
   const onClickToggleMenu = () =>
     document.getElementById("nav-menu").classList.toggle("show");
   return (
-    <header>
+    <header className="header">
       <nav className="nav container">
         <a href="#home" className="nav__logo">
           Issai Mendoza
