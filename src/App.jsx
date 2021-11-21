@@ -1,7 +1,7 @@
 import "./App.scss";
-import Home from "./pages/home/";
+import ComingSoon from "./pages/ComingSoon";
 function App() {
-  return <Home></Home>;
+  return <ComingSoon></ComingSoon>;
 }
 
 export default App;
