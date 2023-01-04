@@ -3,7 +3,7 @@ import RunFry from "../assets/gif/run-fry-guy-run.gif";
 export default function ComingSoon() {
   return (
     <>
-      <Header></Header>
+      {/* <Header></Header> */}
       <main className="comingsoon">
         <figure className="comingsoon__container">
           <img className="comingsoon__image" src={RunFry} alt="Run Fry" />
